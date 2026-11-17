@@ -1,21 +1,17 @@
-# Contact Template
+---
+Founder: ""
+EmailID: ""
+Linkedin ID: ""
+Company: ""
+Company stage: ""
+Valuation: ""
+Valuation/Funding Detail: ""
+Website: ""
+Domain: ""
+city: ""
+state: ""
+country: ""
+date: "{{date}}"
+---
+## Notes
 
-| Field | Value |
-|---|---|
-| UID | |
-| Name | |
-| Role | |
-| Email | |
-| Phone | |
-| LinkedIn | |
-| Company | |
-| Company Stage | |
-| Sector | |
-| Valuation | |
-| Website | |
-| Description | |
-| City | |
-| State | |
-| Country | |
-| Appointment | |
-| Source / News URL | |
