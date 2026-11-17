@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/company-template.md",
+                "file": "template/contact-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "company-template"
+              "title": "contact-template"
             }
           }
         ]
@@ -198,7 +198,7 @@
   },
   "active": "50e216ab8727fb7f",
   "lastOpenFiles": [
-    "template/contact-template.md",
-    "template/company-template.md"
+    "template/company-template.md",
+    "template/contact-template.md"
   ]
 }
